@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "Single Room",
+		"image": "https://cdn.pixabay.com/photo/2018/06/14/21/15/bedroom-3475656_960_720.jpg",
+		"bed": 1,
+		"capacity": 1,
+		"price": 100
+	},
+	{
+		"id": 2,
+		"name": "Couple Room",
+		"image": "https://cdn.pixabay.com/photo/2020/10/18/09/16/bedroom-5664221_960_720.jpg",
+		"bed": 1,
+		"capacity": 2,
+		"price": 150
+	},
+	{
+		"id": 3,
+		"name": "Family Room",
+		"image": "https://cdn.pixabay.com/photo/2014/10/16/08/39/bedroom-490779_960_720.jpg",
+		"bed": 2,
+		"capacity": 4,
+		"price": 200
+	}
+]
